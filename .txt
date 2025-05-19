@@ -1,0 +1,3 @@
+//Pero antes de correr el proyecto, instalamos todas laas dependencias con 
+npm install
+//para correr el proyecto es con npm run dev
